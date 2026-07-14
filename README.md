@@ -13,10 +13,10 @@
 
 PhD researcher working at the intersection of **topological data analysis (TDA)**, **biomedical signal processing (EEG / seizure detection)**, and **quantitative finance**. I build things end-to-end — from research code and papers to open-source web apps.
 
-- 🔬 **Research:** dynamic TDA (CROCKER / zigzag persistence) for epileptic seizure detection from EEG
+- 🔬 **Research:** Topological Data Analysis (TDA) for epileptic seizure detection from EEG
 - 📈 **Quant:** real-time change-point detection, time-series ML, and prep for quant roles in Abu Dhabi
 - 💃 **Off-screen:** Zumba 6×/week — on my way to becoming a certified instructor
-- 🎯 Currently: finishing my PhD (grad target **May 2027**), aiming for **industry AI + Finance / quant**
+- 🎯 Currently: finishing my PhD (grad target **May 2027**), aiming for **Industry AI + Finance / Quant** and **Academic Postdoc**
 
 <p align="center">
   <a href="./PROJECTS.md"><img src="https://img.shields.io/badge/📂_Featured_projects-See%20what%20I've%20built-0047BA?style=for-the-badge" alt="Featured projects"></a>
