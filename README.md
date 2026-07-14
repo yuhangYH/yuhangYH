@@ -25,13 +25,15 @@ PhD researcher working at the intersection of **topological data analysis (TDA)*
 ### 🧠 Research — TDA for EEG & seizure detection
 | Repo | What it is |
 |------|-----------|
-| **[BIBM2026-tda-eeg-seizure-benchmark](https://github.com/yuhangYH/BIBM2026-tda-eeg-seizure-benchmark)** | Spectral-TDA benchmark for EEG seizure detection (BIBM 2026 submission) |
+| **[mv-afa-szcore](https://github.com/yuhangYH/mv-afa-szcore)** | MV-AFA: topology-aware multi-view fusion attention for EEG seizure detection · SzCORE benchmark |
+| **[BioCAS2026-Benchmark](https://github.com/yuhangYH/BioCAS2026-Benchmark)** | BioCAS 2026 EEG seizure-detection benchmark |
+| BIBM2026-tda-eeg-seizure-benchmark | Spectral-TDA benchmark for EEG seizure detection (BIBM 2026 submission) |
 | Dynamic-TDA / MV-AFA | CROCKER & zigzag follow-up to my multi-view seizure paper |
 
 ### 📊 Quant & finance
 | Repo | What it is |
 |------|-----------|
-| **[quant-ai-hub](https://github.com/yuhangYH/quant-ai-hub)** | Bilingual quant-learning + ADIA-prep site · 🌐 GitHub Pages |
+| quant-ai-hub | Bilingual quant-learning + ADIA-prep site · 🌐 GitHub Pages |
 | CrunchDAO — *charming-lion* | Training-free scale detector for the ADIA Lab structural-break challenge |
 
 ### 🌐 Open-source web apps
@@ -39,7 +41,7 @@ PhD researcher working at the intersection of **topological data analysis (TDA)*
 |------|-----------|
 | **[isochrona](https://github.com/yuhangYH/isochrona)** | Bilingual isochrone travel-time map · 🌐 GitHub Pages |
 | **[zumba-hub](https://github.com/yuhangYH/zumba-hub)** | Self-learning hub for Zumba & Latin dance · 🌐 GitHub Pages |
-| **abu-dhabi-foodie-map** | Trilingual static restaurant guide (460+ spots, expanding to Dubai) |
+| **abu-dhabi-foodie-map** | Trilingual static restaurant guide (148+ spots, expanding to Dubai) |
 
 ---
 
