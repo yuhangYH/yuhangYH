@@ -27,7 +27,6 @@ PhD researcher working at the intersection of **topological data analysis (TDA)*
 |------|-----------|
 | **[mv-afa-szcore](https://github.com/yuhangYH/mv-afa-szcore)** | MV-AFA: topology-aware multi-view fusion attention for EEG seizure detection · SzCORE benchmark |
 | **[BioCAS2026-Benchmark](https://github.com/yuhangYH/BioCAS2026-Benchmark)** | BioCAS 2026 EEG seizure-detection benchmark |
-| BIBM2026-tda-eeg-seizure-benchmark | Spectral-TDA benchmark for EEG seizure detection (BIBM 2026 submission) |
 | Dynamic-TDA / MV-AFA | CROCKER & zigzag follow-up to my multi-view seizure paper |
 
 ### 📊 Quant & finance
