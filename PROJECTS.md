@@ -37,11 +37,6 @@
   <img alt="Activity overview" src="./activity-overview.svg" width="500">
 </picture>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuhangYH&show_icons=true&hide_border=true&title_color=0047BA&icon_color=2d7d46" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhangYH&layout=compact&hide_border=true&title_color=0047BA" alt="Top languages" height="165">
-</p>
-
 ---
 
 ## 🛠️ Tech & tools
