@@ -25,7 +25,7 @@
 |------|-----------|
 | **[isochrona](https://github.com/yuhangYH/isochrona)** | Bilingual isochrone travel-time map · 🌐 GitHub Pages |
 | **[zumba-hub](https://github.com/yuhangYH/zumba-hub)** | Self-learning hub for Zumba & Latin dance · 🌐 GitHub Pages |
-| **abu-dhabi-foodie-map** | Trilingual static restaurant guide (148+ spots, expanding to Dubai) |
+| **abu-dhabi-foodie-map** | Trilingual static restaurant guide (460+ spots, expanded to Dubai) |
 
 ---
 
